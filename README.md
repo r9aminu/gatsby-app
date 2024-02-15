@@ -3,8 +3,7 @@ This is a simple project built with Gatsby, showcasing basic usage of components
 
 ## Getting Started
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/r9aminu/gatsby-app.git
+git clone https://github.com/r9aminu/gatsby-app.git
 
 1. Navigate to the project directory:
 cd gatsby-app
